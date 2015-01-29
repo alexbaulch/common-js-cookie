@@ -3,6 +3,10 @@
   "version": "1.0.4",
   "description": "A small commonjs module for handling cookies in the browser",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alexbaulch/common-js-cookie.git"
+  },
   "author": "alexbaulch",
   "license": "ISC",
   "main": "index.js"
