@@ -1,6 +1,6 @@
 {
   "name": "common-js-cookie",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A small commonjs module for handling cookies in the browser",
   "scripts": {},
   "repository": {
